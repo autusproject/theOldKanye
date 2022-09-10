@@ -46,3 +46,23 @@ hr {
   margin: auto;
   width: 40%;
 }
+
+/* unvisited link */
+a:link {
+  color: white;
+}
+
+/* visited link */
+a:visited {
+  color: white;
+}
+
+/* mouse over link */
+a:hover {
+  color: #666666;
+}
+
+/* selected link */
+a:active {
+  color: white;
+}
