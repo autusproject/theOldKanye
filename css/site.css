@@ -49,20 +49,20 @@ hr {
 
 /* unvisited link */
 a:link {
-  color: white;
+  color: white !important;
 }
 
 /* visited link */
 a:visited {
-  color: white;
+  color: white !important;
 }
 
 /* mouse over link */
 a:hover {
-  color: #666666;
+  color: #666666 !important;
 }
 
 /* selected link */
 a:active {
-  color: white;
+  color: white !important;
 }
